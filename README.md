@@ -1,4 +1,4 @@
-# Grav Google Analytics Plugin
+# Grav Google Tag Manager (WIP)
 
 The **Google Analytics** Plugin for [Grav CMS](http://github.com/getgrav/grav) allows you to integrate and configure [Google Analytics](https://www.google.com/analytics) without the need to touch any code within your Grav site.
 
